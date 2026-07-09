@@ -1,10 +1,10 @@
 ---
 layout: post
 title: getting this site live on GitHub Pages
-date: 2026-07-09 06:00:00
+date: 2026-07-09 00:00:00
 description: how pwnkhat.github.io went from a private repo to a working site, and the two silent bugs that almost stopped it
 tags: meta github-pages jekyll
-categories: sample-posts
+categories: meta
 ---
 
 I finally got this site live at `pwnkhat.github.io`. It went smoother than expected, but there were two quiet bugs along the way that are worth writing down — mostly so future-me doesn't have to debug them twice.
